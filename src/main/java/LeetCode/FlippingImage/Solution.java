@@ -1,4 +1,4 @@
-package FlippingImage;
+package LeetCode.FlippingImage;
 
 public class Solution {
 

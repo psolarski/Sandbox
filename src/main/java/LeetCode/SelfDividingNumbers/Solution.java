@@ -1,4 +1,4 @@
-package SelfDividingNumbers;
+package LeetCode.SelfDividingNumbers;
 
 import java.util.LinkedList;
 import java.util.List;

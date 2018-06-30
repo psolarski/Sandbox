@@ -1,4 +1,4 @@
-package LengthOfLastWord;
+package LeetCode.LengthOfLastWord;
 
 public class Solution {
 

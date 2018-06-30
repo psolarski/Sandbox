@@ -1,4 +1,4 @@
-package RemoveElement;
+package LeetCode.RemoveElement;
 
 public class Solution {
 

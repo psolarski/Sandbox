@@ -1,4 +1,4 @@
-package JewelsAndStones;
+package LeetCode.JewelsAndStones;
 
 public class Solution {
 

@@ -1,4 +1,4 @@
-package JudgeRouteCircle;
+package LeetCode.JudgeRouteCircle;
 
 public class Solution {
 

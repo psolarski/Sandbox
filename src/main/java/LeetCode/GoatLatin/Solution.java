@@ -1,4 +1,4 @@
-package GoatLatin;
+package LeetCode.GoatLatin;
 
 public class Solution {
 

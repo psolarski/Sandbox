@@ -1,4 +1,4 @@
-package ReverseInteger;
+package LeetCode.ReverseInteger;
 
 public class Solution {
 
