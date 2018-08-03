@@ -1,4 +1,4 @@
-package BenchmarkRunner;
+package BenchmarkRunner.StringConcatenationBenchmark;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.infra.Blackhole;
